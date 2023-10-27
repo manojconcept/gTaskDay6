@@ -22,7 +22,7 @@ d) Write a piece of code that creates an instance of the class Movie with the ti
 
 
 ```
-2. ***https://github.com/rvsp/typescript-oops/blob/master/Practice/class-circle.md*** [link](Class-Circle.js) 
-![Circle](Class-Circle.js)
+2. ***https://github.com/rvsp/typescript-oops/blob/master/Practice/class-circle.md*** [link](Class-Circle.js)
+![Circle](https://ibb.co/17rvZrf)
 3. Write a “person” class to hold all the details. [link](Write%20a%20“person”%20class%20to%20hold%20all%20the%20details.js)
 4. write a class to calculate the uber price. [link](write%20a%20class%20to%20calculate%20the%20uber%20price.js)
