@@ -1,6 +1,6 @@
 # Day 6 Oops
 
-1. ***https://github.com/rvsp/typescript-oops/blob/master/Practice/Movie.md*** [link](Class%20-%20Movie.js)
+1. ***https://github.com/rvsp/typescript-oops/blob/master/Practice/Movie.md***    [link](Class%20-%20Movie.js)
 
     ```md
     Class - Movie
@@ -23,7 +23,7 @@
 
 
     ```
-2. ***https://github.com/rvsp/typescript-oops/blob/master/Practice/class-circle.md*** [link](Class-Circle.js)
+2. ***https://github.com/rvsp/typescript-oops/blob/master/Practice/class-circle.md***    [link](Class-Circle.js)
 
     ```txt
     UML Circle
@@ -43,5 +43,5 @@
     +getCircumference (): double
 
     ```
-3. Write a “person” class to hold all the details. [link](Write%20a%20“person”%20class%20to%20hold%20all%20the%20details.js)
-4. write a class to calculate the uber price. [link](write%20a%20class%20to%20calculate%20the%20uber%20price.js)
+3. Write a “person” class to hold all the details.    [link](Write%20a%20“person”%20class%20to%20hold%20all%20the%20details.js)
+4. write a class to calculate the uber price.    [link](write%20a%20class%20to%20calculate%20the%20uber%20price.js)
