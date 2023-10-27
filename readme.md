@@ -23,6 +23,23 @@ d) Write a piece of code that creates an instance of the class Movie with the ti
 
 ```
 2. ***https://github.com/rvsp/typescript-oops/blob/master/Practice/class-circle.md*** [link](Class-Circle.js)
-![Circle](ClassDiagram_Circle.png)
+```uml
+Circle
+________________________
+-radius:double 1.0 
+-color:String = "red"
+________________________
++Circle()
++Circle (radius:double)
++Circle(radius: double, color: String)
++getRadius(): double
++setRadius (radius:double):void
++getColor(): String
++setColor(color:String):void
++toString(): String
++getArea(): double
++getCircumference (): double
+
+```
 3. Write a “person” class to hold all the details. [link](Write%20a%20“person”%20class%20to%20hold%20all%20the%20details.js)
 4. write a class to calculate the uber price. [link](write%20a%20class%20to%20calculate%20the%20uber%20price.js)
